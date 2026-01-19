@@ -1,0 +1,23 @@
+From 4ecbdd794a1abd516eeef394a8c83561a9619380 Mon Sep 17 00:00:00 2001
+From: Jianwu Hu <ajianwu8@gmail.com>
+Date: Mon, 19 Jan 2026 13:20:21 +0100
+Subject: [PATCH] =?UTF-8?q?feat:=20a=C3=B1adido=20algo=20nuevo?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ archivo_nuevo.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 archivo_nuevo.txt
+
+diff --git a/archivo_nuevo.txt b/archivo_nuevo.txt
+new file mode 100644
+index 0000000..41cd3f1
+--- /dev/null
++++ b/archivo_nuevo.txt
+@@ -0,0 +1 @@
++Este es un nuevo commit
+-- 
+2.43.0
+
